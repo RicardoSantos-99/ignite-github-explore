@@ -19,6 +19,9 @@
     "@babel/preset-react": "^7.13.13",
     "@commitlint/cli": "^12.1.1",
     "@commitlint/config-conventional": "^12.1.1",
-    "husky": "^6.0.0"
+    "babel-loader": "^8.2.2",
+    "husky": "^6.0.0",
+    "webpack": "^5.36.2",
+    "webpack-cli": "^4.6.0"
   }
 }
