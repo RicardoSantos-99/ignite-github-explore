@@ -12,7 +12,7 @@ export function Counter() {
   }
 
   function clear() {
-    setCounter(0)
+    setCounter(0) // imutabilidade
   }
 
   return (
